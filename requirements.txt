@@ -1,0 +1,8 @@
+python-dotenv>=1.0.0
+openai>=1.0.0
+groq>=0.11.0
+requests>=2.31.0
+
+# Install these only when using the corresponding provider:
+# anthropic>=0.39.0
+# google-generativeai>=0.8.0
